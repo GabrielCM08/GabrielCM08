@@ -13,7 +13,8 @@
   <img align="center" alt="gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gabriel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/868202568302592021/895771203313225728/download20211004173344.png">
+  <img align="right" alt="gabriel-pic" height="150" style="border-radius:50px;"
+       src="https://user-images.githubusercontent.com/75757398/137596236-9ae5ef58-7eaa-4b63-9e14-7e51f12bb0ea.jpg">
 </div>
   
   ##
