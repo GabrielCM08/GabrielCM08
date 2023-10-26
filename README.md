@@ -21,7 +21,7 @@
   <img align="center" alt="gabriel-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="gabriel-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="gabriel-pic"  width="150" border="50";"
+  <img align="right" alt="gabriel-pic"  height="180em";"
        src="https://github.com/GabrielCM08/GabrielCM08/assets/75757398/79721a5b-68a8-46b8-bbae-1e62ccc5f844">
 </div>
 
